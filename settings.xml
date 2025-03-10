@@ -15,7 +15,7 @@
     <repositories>
       <repository>
         <id>nextwork-nextwork-packages</id>
-        <url>https://nextwork-440744215681.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-packages/</url>
+        <url>https://nextwork-440744215681.d.codeartifact.eu-west-3.amazonaws.com/maven/nextwork-packages/</url>
       </repository>
     </repositories>
   </profile>
@@ -24,7 +24,7 @@
   <mirror>
     <id>nextwork-nextwork-packages</id>
     <name>nextwork-nextwork-packages</name>
-    <url>https://nextwork-440744215681.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-packages/</url>
+    <url>https://nextwork-440744215681.d.codeartifact.eu-west-3.amazonaws.com/maven/nextwork-packages/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
